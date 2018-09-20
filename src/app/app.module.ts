@@ -19,6 +19,7 @@ import { LoginModule } from './login/login.module';
 import { ManageModule } from './manage/manage.module';
 import { BuildModule } from './build/build.module';
 
+
 // Authentication
 import { AuthModule } from './auth/auth.module';
 import { AngularFireModule } from 'angularfire2';
